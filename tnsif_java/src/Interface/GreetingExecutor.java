@@ -9,7 +9,7 @@ public class GreetingExecutor {
 			//lambda expression
 			
 			Greeting gd = () -> {
-				System.out.println("Hi Everyonr!! Welcome to the Java Session");
+				System.out.println("Hi Everyone!! Welcome to the Java Session");
 			};
 			
 			gd.greet();
