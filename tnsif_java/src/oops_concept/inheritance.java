@@ -103,12 +103,10 @@ interface A{
 
 interface B{
 	
-}
 
-class C extends A ,B
-{
-	
-}
+
+//class C extends A ,B
+
 
 
 public class InheritanceDemo {
@@ -149,5 +147,7 @@ public class InheritanceDemo {
 		
 		
 	}
+}
 
 }
+
